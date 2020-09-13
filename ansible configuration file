@@ -1,0 +1,13 @@
+[defaults]
+inventory = /root/task2/inventory                      
+host_key_checking = False
+roles_path = /root/task2/roles                    
+private_key_file = /root/nischal.pem
+remote_user = ec2-user 
+
+
+[privilege_escalation]
+become = yes
+become_user = root
+become_method = sudo
+ask_pass = no
