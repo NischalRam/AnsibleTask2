@@ -17,5 +17,3 @@ everything is expected here 🔗
  <br>
  **feel free to contact me on**
   <a href= "https://www.linkedin.com/in/nischal-vooda-b00b1a19b/" target="_blank">Linkedin</a>
-
-https://medium.com/@nischalvooda/webserver-configuration-on-aws-ec2-instance-using-ansible-3a0a5073a3e5?source=friends_link&sk=7de56a3201e707332ad1a5ce0f2ee44c
